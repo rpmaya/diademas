@@ -1,0 +1,1478 @@
+[
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 1271463,
+            "theta": 977609,
+            "lowAlpha": 550257,
+            "highAlpha": 141402,
+            "lowBeta": 384247,
+            "highBeta": 668885,
+            "lowGamma": 737846,
+            "highGamma": 492746
+        },
+        "poorSignalLevel": 25,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 794302,
+            "theta": 173036,
+            "lowAlpha": 68205,
+            "highAlpha": 53632,
+            "lowBeta": 62584,
+            "highBeta": 55294,
+            "lowGamma": 17274,
+            "highGamma": 11975
+        },
+        "poorSignalLevel": 51,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 2031454,
+            "theta": 144757,
+            "lowAlpha": 47785,
+            "highAlpha": 75895,
+            "lowBeta": 44419,
+            "highBeta": 42619,
+            "lowGamma": 8725,
+            "highGamma": 3016
+        },
+        "poorSignalLevel": 25,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 2418057,
+            "theta": 49808,
+            "lowAlpha": 12815,
+            "highAlpha": 45371,
+            "lowBeta": 10352,
+            "highBeta": 7117,
+            "lowGamma": 1902,
+            "highGamma": 2425
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 1873935,
+            "theta": 54016,
+            "lowAlpha": 25379,
+            "highAlpha": 19936,
+            "lowBeta": 25321,
+            "highBeta": 21749,
+            "lowGamma": 2000,
+            "highGamma": 618
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 1230698,
+            "theta": 23647,
+            "lowAlpha": 3527,
+            "highAlpha": 24612,
+            "lowBeta": 23103,
+            "highBeta": 11574,
+            "lowGamma": 1956,
+            "highGamma": 1555
+        },
+        "poorSignalLevel": 26,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 135283,
+            "theta": 26028,
+            "lowAlpha": 4625,
+            "highAlpha": 7121,
+            "lowBeta": 6391,
+            "highBeta": 8403,
+            "lowGamma": 1194,
+            "highGamma": 1388
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 43,
+            "meditation": 30
+        },
+        "eegPower": {
+            "delta": 581382,
+            "theta": 497475,
+            "lowAlpha": 30044,
+            "highAlpha": 57838,
+            "lowBeta": 101288,
+            "highBeta": 73451,
+            "lowGamma": 16951,
+            "highGamma": 2086
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 43,
+            "meditation": 30
+        },
+        "eegPower": {
+            "delta": 774229,
+            "theta": 362975,
+            "lowAlpha": 401962,
+            "highAlpha": 175895,
+            "lowBeta": 420034,
+            "highBeta": 72069,
+            "lowGamma": 88120,
+            "highGamma": 77618
+        },
+        "poorSignalLevel": 51,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 43,
+            "meditation": 30
+        },
+        "eegPower": {
+            "delta": 231555,
+            "theta": 32690,
+            "lowAlpha": 12654,
+            "highAlpha": 14573,
+            "lowBeta": 20227,
+            "highBeta": 30150,
+            "lowGamma": 46003,
+            "highGamma": 7800
+        },
+        "poorSignalLevel": 80,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 43,
+            "meditation": 30
+        },
+        "eegPower": {
+            "delta": 652973,
+            "theta": 26703,
+            "lowAlpha": 30535,
+            "highAlpha": 80056,
+            "lowBeta": 42483,
+            "highBeta": 77777,
+            "lowGamma": 74871,
+            "highGamma": 39214
+        },
+        "poorSignalLevel": 80,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 43,
+            "meditation": 30
+        },
+        "eegPower": {
+            "delta": 688945,
+            "theta": 254931,
+            "lowAlpha": 178338,
+            "highAlpha": 170058,
+            "lowBeta": 109631,
+            "highBeta": 32829,
+            "lowGamma": 12718,
+            "highGamma": 14954
+        },
+        "poorSignalLevel": 80,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 43,
+            "meditation": 30
+        },
+        "eegPower": {
+            "delta": 152559,
+            "theta": 68131,
+            "lowAlpha": 6675,
+            "highAlpha": 10704,
+            "lowBeta": 12353,
+            "highBeta": 46963,
+            "lowGamma": 19138,
+            "highGamma": 8515
+        },
+        "poorSignalLevel": 80,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 1496123,
+            "theta": 74644,
+            "lowAlpha": 42237,
+            "highAlpha": 63156,
+            "lowBeta": 124322,
+            "highBeta": 109883,
+            "lowGamma": 55006,
+            "highGamma": 34135
+        },
+        "poorSignalLevel": 200,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 1342266,
+            "theta": 396528,
+            "lowAlpha": 400992,
+            "highAlpha": 585065,
+            "lowBeta": 966715,
+            "highBeta": 528309,
+            "lowGamma": 264645,
+            "highGamma": 58029
+        },
+        "poorSignalLevel": 200,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 1011433,
+            "theta": 139737,
+            "lowAlpha": 32711,
+            "highAlpha": 37042,
+            "lowBeta": 138089,
+            "highBeta": 103699,
+            "lowGamma": 86185,
+            "highGamma": 107660
+        },
+        "poorSignalLevel": 200,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 1455633,
+            "theta": 383040,
+            "lowAlpha": 54067,
+            "highAlpha": 244772,
+            "lowBeta": 212970,
+            "highBeta": 385073,
+            "lowGamma": 262859,
+            "highGamma": 94948
+        },
+        "poorSignalLevel": 200,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 160772,
+            "theta": 7879,
+            "lowAlpha": 10774,
+            "highAlpha": 7991,
+            "lowBeta": 19061,
+            "highBeta": 32138,
+            "lowGamma": 16552,
+            "highGamma": 21132
+        },
+        "poorSignalLevel": 200,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 1145148,
+            "theta": 93678,
+            "lowAlpha": 64274,
+            "highAlpha": 20693,
+            "lowBeta": 27428,
+            "highBeta": 36364,
+            "lowGamma": 14032,
+            "highGamma": 24358
+        },
+        "poorSignalLevel": 200,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 331380,
+            "theta": 149300,
+            "lowAlpha": 130082,
+            "highAlpha": 129296,
+            "lowBeta": 106429,
+            "highBeta": 79895,
+            "lowGamma": 130425,
+            "highGamma": 60320
+        },
+        "poorSignalLevel": 200,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 2578649,
+            "theta": 262639,
+            "lowAlpha": 81649,
+            "highAlpha": 431985,
+            "lowBeta": 163699,
+            "highBeta": 417143,
+            "lowGamma": 300601,
+            "highGamma": 280129
+        },
+        "poorSignalLevel": 200,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 218371,
+            "theta": 240717,
+            "lowAlpha": 178326,
+            "highAlpha": 132991,
+            "lowBeta": 154792,
+            "highBeta": 38612,
+            "lowGamma": 142110,
+            "highGamma": 52617
+        },
+        "poorSignalLevel": 200,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 798699,
+            "theta": 75710,
+            "lowAlpha": 33899,
+            "highAlpha": 12725,
+            "lowBeta": 31107,
+            "highBeta": 22419,
+            "lowGamma": 5832,
+            "highGamma": 2887
+        },
+        "poorSignalLevel": 200,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 556148,
+            "theta": 533461,
+            "lowAlpha": 45802,
+            "highAlpha": 131121,
+            "lowBeta": 265987,
+            "highBeta": 245063,
+            "lowGamma": 367704,
+            "highGamma": 189861
+        },
+        "poorSignalLevel": 200,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 140031,
+            "theta": 21286,
+            "lowAlpha": 9436,
+            "highAlpha": 21938,
+            "lowBeta": 30718,
+            "highBeta": 12147,
+            "lowGamma": 16281,
+            "highGamma": 3410
+        },
+        "poorSignalLevel": 200,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 2842920,
+            "theta": 316281,
+            "lowAlpha": 193963,
+            "highAlpha": 370584,
+            "lowBeta": 153253,
+            "highBeta": 137878,
+            "lowGamma": 161180,
+            "highGamma": 59553
+        },
+        "poorSignalLevel": 200,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 607068,
+            "theta": 143372,
+            "lowAlpha": 36922,
+            "highAlpha": 52508,
+            "lowBeta": 121895,
+            "highBeta": 139267,
+            "lowGamma": 88109,
+            "highGamma": 31775
+        },
+        "poorSignalLevel": 51,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 304617,
+            "theta": 289541,
+            "lowAlpha": 28718,
+            "highAlpha": 126754,
+            "lowBeta": 50954,
+            "highBeta": 45944,
+            "lowGamma": 41028,
+            "highGamma": 13044
+        },
+        "poorSignalLevel": 51,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 152446,
+            "theta": 164427,
+            "lowAlpha": 112735,
+            "highAlpha": 28120,
+            "lowBeta": 71155,
+            "highBeta": 37081,
+            "lowGamma": 29412,
+            "highGamma": 16312
+        },
+        "poorSignalLevel": 51,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 732183,
+            "theta": 151448,
+            "lowAlpha": 15174,
+            "highAlpha": 6036,
+            "lowBeta": 4018,
+            "highBeta": 2603,
+            "lowGamma": 783,
+            "highGamma": 549
+        },
+        "poorSignalLevel": 25,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 399616,
+            "theta": 10099,
+            "lowAlpha": 15849,
+            "highAlpha": 10403,
+            "lowBeta": 6725,
+            "highBeta": 3685,
+            "lowGamma": 1265,
+            "highGamma": 375
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 1196216,
+            "theta": 21272,
+            "lowAlpha": 27097,
+            "highAlpha": 6848,
+            "lowBeta": 7925,
+            "highBeta": 3880,
+            "lowGamma": 1590,
+            "highGamma": 431
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 619423,
+            "theta": 31749,
+            "lowAlpha": 15729,
+            "highAlpha": 3892,
+            "lowBeta": 5602,
+            "highBeta": 5654,
+            "lowGamma": 3099,
+            "highGamma": 1838
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 397146,
+            "theta": 7121,
+            "lowAlpha": 5959,
+            "highAlpha": 3210,
+            "lowBeta": 1152,
+            "highBeta": 768,
+            "lowGamma": 383,
+            "highGamma": 170
+        },
+        "poorSignalLevel": 26,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 172627,
+            "theta": 15715,
+            "lowAlpha": 7818,
+            "highAlpha": 8358,
+            "lowBeta": 7008,
+            "highBeta": 1961,
+            "lowGamma": 1228,
+            "highGamma": 1037
+        },
+        "poorSignalLevel": 51,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 8,
+            "theta": 6,
+            "lowAlpha": 0,
+            "highAlpha": 0,
+            "lowBeta": 0,
+            "highBeta": 1,
+            "lowGamma": 1,
+            "highGamma": 0
+        },
+        "poorSignalLevel": 54,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 7,
+            "theta": 1,
+            "lowAlpha": 0,
+            "highAlpha": 0,
+            "lowBeta": 0,
+            "highBeta": 2,
+            "lowGamma": 0,
+            "highGamma": 0
+        },
+        "poorSignalLevel": 54,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 3,
+            "theta": 1,
+            "lowAlpha": 1,
+            "highAlpha": 0,
+            "lowBeta": 2,
+            "highBeta": 1,
+            "lowGamma": 0,
+            "highGamma": 0
+        },
+        "poorSignalLevel": 54,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 1,
+            "theta": 1,
+            "lowAlpha": 0,
+            "highAlpha": 1,
+            "lowBeta": 1,
+            "highBeta": 2,
+            "lowGamma": 0,
+            "highGamma": 0
+        },
+        "poorSignalLevel": 54,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 128,
+            "theta": 128,
+            "lowAlpha": 60,
+            "highAlpha": 15,
+            "lowBeta": 45,
+            "highBeta": 8,
+            "lowGamma": 2,
+            "highGamma": 6
+        },
+        "poorSignalLevel": 200,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 1431125,
+            "theta": 294721,
+            "lowAlpha": 9573,
+            "highAlpha": 67985,
+            "lowBeta": 198108,
+            "highBeta": 16464,
+            "lowGamma": 1855,
+            "highGamma": 5966
+        },
+        "poorSignalLevel": 200,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 1364257,
+            "theta": 120720,
+            "lowAlpha": 83698,
+            "highAlpha": 34721,
+            "lowBeta": 10199,
+            "highBeta": 26638,
+            "lowGamma": 4819,
+            "highGamma": 16030
+        },
+        "poorSignalLevel": 200,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 1120,
+            "theta": 387,
+            "lowAlpha": 133,
+            "highAlpha": 101,
+            "lowBeta": 87,
+            "highBeta": 32,
+            "lowGamma": 12,
+            "highGamma": 10
+        },
+        "poorSignalLevel": 25,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 217804,
+            "theta": 77347,
+            "lowAlpha": 16869,
+            "highAlpha": 9195,
+            "lowBeta": 1990,
+            "highBeta": 1257,
+            "lowGamma": 611,
+            "highGamma": 325
+        },
+        "poorSignalLevel": 25,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 787644,
+            "theta": 68546,
+            "lowAlpha": 38955,
+            "highAlpha": 24118,
+            "lowBeta": 7003,
+            "highBeta": 8229,
+            "lowGamma": 3573,
+            "highGamma": 3612
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 1118614,
+            "theta": 216772,
+            "lowAlpha": 41094,
+            "highAlpha": 53585,
+            "lowBeta": 19260,
+            "highBeta": 19181,
+            "lowGamma": 4194,
+            "highGamma": 2695
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 107532,
+            "theta": 13075,
+            "lowAlpha": 6464,
+            "highAlpha": 4965,
+            "lowBeta": 2497,
+            "highBeta": 2692,
+            "lowGamma": 2387,
+            "highGamma": 856
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 56,
+            "meditation": 27
+        },
+        "eegPower": {
+            "delta": 454146,
+            "theta": 11586,
+            "lowAlpha": 4400,
+            "highAlpha": 3343,
+            "lowBeta": 4651,
+            "highBeta": 2832,
+            "lowGamma": 4012,
+            "highGamma": 910
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 56,
+            "meditation": 27
+        },
+        "eegPower": {
+            "delta": 2064742,
+            "theta": 37126,
+            "lowAlpha": 19691,
+            "highAlpha": 13123,
+            "lowBeta": 13221,
+            "highBeta": 11418,
+            "lowGamma": 3301,
+            "highGamma": 1089
+        },
+        "poorSignalLevel": 51,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 56,
+            "meditation": 27
+        },
+        "eegPower": {
+            "delta": 1459322,
+            "theta": 374979,
+            "lowAlpha": 44807,
+            "highAlpha": 220449,
+            "lowBeta": 315308,
+            "highBeta": 249842,
+            "lowGamma": 18021,
+            "highGamma": 2073
+        },
+        "poorSignalLevel": 25,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 56,
+            "meditation": 27
+        },
+        "eegPower": {
+            "delta": 900366,
+            "theta": 304215,
+            "lowAlpha": 102760,
+            "highAlpha": 109796,
+            "lowBeta": 64367,
+            "highBeta": 95755,
+            "lowGamma": 27440,
+            "highGamma": 3230
+        },
+        "poorSignalLevel": 25,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 56,
+            "meditation": 27
+        },
+        "eegPower": {
+            "delta": 1278983,
+            "theta": 94790,
+            "lowAlpha": 92983,
+            "highAlpha": 242321,
+            "lowBeta": 76473,
+            "highBeta": 85368,
+            "lowGamma": 99663,
+            "highGamma": 49353
+        },
+        "poorSignalLevel": 51,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 56,
+            "meditation": 27
+        },
+        "eegPower": {
+            "delta": 650606,
+            "theta": 312960,
+            "lowAlpha": 90898,
+            "highAlpha": 100710,
+            "lowBeta": 15821,
+            "highBeta": 47955,
+            "lowGamma": 135362,
+            "highGamma": 37856
+        },
+        "poorSignalLevel": 80,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 56,
+            "meditation": 27
+        },
+        "eegPower": {
+            "delta": 600203,
+            "theta": 172500,
+            "lowAlpha": 40274,
+            "highAlpha": 46310,
+            "lowBeta": 105665,
+            "highBeta": 150832,
+            "lowGamma": 37060,
+            "highGamma": 45532
+        },
+        "poorSignalLevel": 80,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 56,
+            "meditation": 27
+        },
+        "eegPower": {
+            "delta": 322828,
+            "theta": 230445,
+            "lowAlpha": 67488,
+            "highAlpha": 81650,
+            "lowBeta": 23921,
+            "highBeta": 24523,
+            "lowGamma": 23789,
+            "highGamma": 29513
+        },
+        "poorSignalLevel": 80,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 56,
+            "meditation": 27
+        },
+        "eegPower": {
+            "delta": 280811,
+            "theta": 23706,
+            "lowAlpha": 20667,
+            "highAlpha": 36890,
+            "lowBeta": 70358,
+            "highBeta": 73052,
+            "lowGamma": 41656,
+            "highGamma": 57655
+        },
+        "poorSignalLevel": 80,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 548984,
+            "theta": 614925,
+            "lowAlpha": 236570,
+            "highAlpha": 121332,
+            "lowBeta": 117430,
+            "highBeta": 72473,
+            "lowGamma": 86814,
+            "highGamma": 14988
+        },
+        "poorSignalLevel": 200,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 543339,
+            "theta": 92327,
+            "lowAlpha": 25611,
+            "highAlpha": 43590,
+            "lowBeta": 81789,
+            "highBeta": 91218,
+            "lowGamma": 25527,
+            "highGamma": 32371
+        },
+        "poorSignalLevel": 200,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 544150,
+            "theta": 309144,
+            "lowAlpha": 290362,
+            "highAlpha": 115386,
+            "lowBeta": 122723,
+            "highBeta": 139675,
+            "lowGamma": 68635,
+            "highGamma": 58563
+        },
+        "poorSignalLevel": 200,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 2935132,
+            "theta": 1226536,
+            "lowAlpha": 58423,
+            "highAlpha": 194891,
+            "lowBeta": 224414,
+            "highBeta": 401314,
+            "lowGamma": 349999,
+            "highGamma": 229154
+        },
+        "poorSignalLevel": 200,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 34743,
+            "theta": 68283,
+            "lowAlpha": 68190,
+            "highAlpha": 29473,
+            "lowBeta": 24061,
+            "highBeta": 28111,
+            "lowGamma": 20656,
+            "highGamma": 5322
+        },
+        "poorSignalLevel": 200,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 1388381,
+            "theta": 1114316,
+            "lowAlpha": 208241,
+            "highAlpha": 15579,
+            "lowBeta": 147426,
+            "highBeta": 221513,
+            "lowGamma": 55254,
+            "highGamma": 51696
+        },
+        "poorSignalLevel": 51,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 1951455,
+            "theta": 944068,
+            "lowAlpha": 209227,
+            "highAlpha": 322594,
+            "lowBeta": 264810,
+            "highBeta": 393102,
+            "lowGamma": 342100,
+            "highGamma": 228354
+        },
+        "poorSignalLevel": 51,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 761834,
+            "theta": 405024,
+            "lowAlpha": 370555,
+            "highAlpha": 207133,
+            "lowBeta": 119150,
+            "highBeta": 41340,
+            "lowGamma": 35033,
+            "highGamma": 37324
+        },
+        "poorSignalLevel": 51,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 977594,
+            "theta": 62478,
+            "lowAlpha": 53808,
+            "highAlpha": 8871,
+            "lowBeta": 19480,
+            "highBeta": 3129,
+            "lowGamma": 3651,
+            "highGamma": 790
+        },
+        "poorSignalLevel": 25,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 733151,
+            "theta": 225572,
+            "lowAlpha": 19338,
+            "highAlpha": 18874,
+            "lowBeta": 13330,
+            "highBeta": 9372,
+            "lowGamma": 3364,
+            "highGamma": 1203
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 1756592,
+            "theta": 66329,
+            "lowAlpha": 28594,
+            "highAlpha": 13457,
+            "lowBeta": 20315,
+            "highBeta": 8799,
+            "lowGamma": 7451,
+            "highGamma": 4698
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 0,
+            "meditation": 0
+        },
+        "eegPower": {
+            "delta": 322825,
+            "theta": 111910,
+            "lowAlpha": 26779,
+            "highAlpha": 16983,
+            "lowBeta": 45998,
+            "highBeta": 8054,
+            "lowGamma": 3915,
+            "highGamma": 2346
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 57,
+            "meditation": 34
+        },
+        "eegPower": {
+            "delta": 798129,
+            "theta": 129496,
+            "lowAlpha": 26170,
+            "highAlpha": 17395,
+            "lowBeta": 9803,
+            "highBeta": 9055,
+            "lowGamma": 7150,
+            "highGamma": 5591
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 80,
+            "meditation": 50
+        },
+        "eegPower": {
+            "delta": 1345555,
+            "theta": 50697,
+            "lowAlpha": 35410,
+            "highAlpha": 3871,
+            "lowBeta": 9986,
+            "highBeta": 10208,
+            "lowGamma": 4658,
+            "highGamma": 1682
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 80,
+            "meditation": 50
+        },
+        "eegPower": {
+            "delta": 2019838,
+            "theta": 90458,
+            "lowAlpha": 603,
+            "highAlpha": 8201,
+            "lowBeta": 11542,
+            "highBeta": 12534,
+            "lowGamma": 1414,
+            "highGamma": 491
+        },
+        "poorSignalLevel": 25,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 80,
+            "meditation": 50
+        },
+        "eegPower": {
+            "delta": 2771019,
+            "theta": 414608,
+            "lowAlpha": 374126,
+            "highAlpha": 310482,
+            "lowBeta": 98026,
+            "highBeta": 280426,
+            "lowGamma": 47873,
+            "highGamma": 18578
+        },
+        "poorSignalLevel": 51,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 80,
+            "meditation": 50
+        },
+        "eegPower": {
+            "delta": 1216079,
+            "theta": 1707329,
+            "lowAlpha": 344545,
+            "highAlpha": 101345,
+            "lowBeta": 79828,
+            "highBeta": 322859,
+            "lowGamma": 27077,
+            "highGamma": 19068
+        },
+        "poorSignalLevel": 51,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 80,
+            "meditation": 50
+        },
+        "eegPower": {
+            "delta": 520099,
+            "theta": 79169,
+            "lowAlpha": 26589,
+            "highAlpha": 12230,
+            "lowBeta": 11238,
+            "highBeta": 7706,
+            "lowGamma": 2992,
+            "highGamma": 2021
+        },
+        "poorSignalLevel": 25,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 78,
+            "meditation": 81
+        },
+        "eegPower": {
+            "delta": 528877,
+            "theta": 60277,
+            "lowAlpha": 84375,
+            "highAlpha": 46033,
+            "lowBeta": 15005,
+            "highBeta": 9335,
+            "lowGamma": 8624,
+            "highGamma": 4207
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 88,
+            "meditation": 80
+        },
+        "eegPower": {
+            "delta": 1179287,
+            "theta": 56314,
+            "lowAlpha": 17140,
+            "highAlpha": 12150,
+            "lowBeta": 46238,
+            "highBeta": 32442,
+            "lowGamma": 27278,
+            "highGamma": 22821
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 100,
+            "meditation": 80
+        },
+        "eegPower": {
+            "delta": 1864160,
+            "theta": 166541,
+            "lowAlpha": 122531,
+            "highAlpha": 17446,
+            "lowBeta": 63790,
+            "highBeta": 101329,
+            "lowGamma": 70801,
+            "highGamma": 15250
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 100,
+            "meditation": 80
+        },
+        "eegPower": {
+            "delta": 883507,
+            "theta": 126888,
+            "lowAlpha": 6185,
+            "highAlpha": 8633,
+            "lowBeta": 20455,
+            "highBeta": 13303,
+            "lowGamma": 10504,
+            "highGamma": 2728
+        },
+        "poorSignalLevel": 51,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 67,
+            "meditation": 60
+        },
+        "eegPower": {
+            "delta": 315814,
+            "theta": 257901,
+            "lowAlpha": 48923,
+            "highAlpha": 37665,
+            "lowBeta": 35186,
+            "highBeta": 5419,
+            "lowGamma": 10000,
+            "highGamma": 11608
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 70,
+            "meditation": 40
+        },
+        "eegPower": {
+            "delta": 1555274,
+            "theta": 284191,
+            "lowAlpha": 51417,
+            "highAlpha": 75394,
+            "lowBeta": 51275,
+            "highBeta": 38909,
+            "lowGamma": 24202,
+            "highGamma": 3779
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 51,
+            "meditation": 47
+        },
+        "eegPower": {
+            "delta": 1980229,
+            "theta": 84948,
+            "lowAlpha": 25295,
+            "highAlpha": 76297,
+            "lowBeta": 52617,
+            "highBeta": 66932,
+            "lowGamma": 3272,
+            "highGamma": 4734
+        },
+        "poorSignalLevel": 0,
+        "etiqueta": "concentrado"
+    },
+    {
+        "eSense": {
+            "attention": 51,
+            "meditation": 47
+        },
+        "eegPower": {
+            "delta": 804182,
+            "theta": 17477,
+            "lowAlpha": 7214,
+            "highAlpha": 3413,
+            "lowBeta": 3563,
+            "highBeta": 2205,
+            "lowGamma": 905,
+            "highGamma": 359
+        },
+        "poorSignalLevel": 26,
+        "etiqueta": "concentrado"
+    }
+]
